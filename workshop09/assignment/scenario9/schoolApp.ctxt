@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=schoolApp
+comment1.params=Id\ name\ basicSalary
+comment1.target=person(int,\ java.lang.String,\ double)
+comment2.params=
+comment2.target=double\ calculateAnnualSalary()
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
